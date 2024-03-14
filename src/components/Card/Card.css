@@ -1,0 +1,7 @@
+.size{
+    width: 150px;
+}
+.flex{
+    display: flex;
+    gap: 5px;
+}
